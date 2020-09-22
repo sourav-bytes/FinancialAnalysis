@@ -30,15 +30,15 @@ html {
     height: 35px
 }
 .mini-nav span:nth-child(1){
-Border-right: 0px solid transparent
+Border-right: none
 }
 
 .mini-nav span:nth-child(2){
-Border-right: 0px solid transparent
+Border-right: none
 }
 
 .mini-nav span:nth-child(3){
-Border-right: 0px solid transparent
+Border-right: none
 }
 
 
