@@ -29,11 +29,11 @@ html {
     font-size: 14px;
     height: 35px
 }
-.mini-nav first-child {
+.mini-nav span:first-child {
 Border-left: 1px solid white
 }
 
-.mini-nav span:last-child(4) {
+.mini-nav span:last-child {
 Border-right: 1px solid white
 }
 
