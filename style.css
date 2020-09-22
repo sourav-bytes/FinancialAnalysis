@@ -30,11 +30,11 @@ html {
     height: 35px
 }
 .mini-nav span:first-child {
-Border-left: 1px solid white
+Border-left: 1px solid white !Important
 }
 
 .mini-nav span:last-child {
-Border-right: 1px solid white
+Border-right: 1px solid white !important
 }
 
 
