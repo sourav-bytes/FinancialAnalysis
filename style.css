@@ -29,15 +29,15 @@ html {
     font-size: 14px;
     height: 35px
 }
-.mini-nav span :nth-child(1){
+.mini-nav span:nth-child(1){
 Border-right:none
 }
 
-.mini-nav span :nth-child(2){
+.mini-nav span:nth-child(2){
 Border-right:none
 }
 
-.mini-nav span :nth-child(3){
+.mini-nav span:nth-child(3){
 Border-right:none
 }
 
